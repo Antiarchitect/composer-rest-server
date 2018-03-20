@@ -1,4 +1,4 @@
-FROM hyperledger/composer-rest-server:0.17.5
+FROM hyperledger/composer-rest-server:0.17.6
 
 USER root
 
